@@ -1,5 +1,3 @@
------
-
 # Gitfluent 🧠✨
 
 **Gitfluent** is an AI-powered CLI tool that translates natural language into precise, executable Git commands.
