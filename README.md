@@ -21,7 +21,7 @@ Gitfluent solves this by:
 ### 1\. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gitfluent.git
+git clone https://github.com/zhnuksyh/gitfluent.git
 cd gitfluent
 ```
 
@@ -63,7 +63,7 @@ python gitfluent.py "Your natural language request here"
   * **Fine-Tuning Framework:** [Unsloth](https://github.com/unslothai/unsloth) (2x faster training, 0% accuracy loss).
   * **Dataset:** Custom dataset focusing on version control edge cases, conflict resolution, and colloquial technical requests.
 
-🔗 **Download the Model Weights:** The full model weights are hosted on Hugging Face: [`daimon-ml/gitfluent-llama3-8b`](https://www.google.com/search?q=%5Bhttps://huggingface.co/daimon-ml/gitfluent-llama3-8b%5D\(https://huggingface.co/daimon-ml/gitfluent-llama3-8b\))
+🔗 **Download the Model Weights:** The full model weights are hosted on Hugging Face: [`daimon-ml/gitfluent-llama3-8b`]([https://www.google.com/search?q=%5Bhttps://huggingface.co/daimon-ml/gitfluent-llama3-8b%5D\(https://huggingface.co/daimon-ml/gitfluent-llama3-8b\)](https://huggingface.co/daimon-ml/gitfluent-llama3-8b))
 
 -----
 
