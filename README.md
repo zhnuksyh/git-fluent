@@ -82,7 +82,3 @@ Contributions are welcome\! If you find a Git command the model struggles with, 
 ## 📄 License
 
 This project is licensed under the **Apache 2.0 License** - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
-
------
-
-Would you like me to add a "Getting Started" section with environment variable setup or a "Troubleshooting" section for common GPU/driver issues?
